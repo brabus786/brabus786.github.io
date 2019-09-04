@@ -1,0 +1,155 @@
+.screen1{
+   
+    width: 100%;
+    background-image: url(../img/sloy.webp) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    
+
+    .container{
+        height: 100%;
+        
+
+        .row{
+            height: 100%;
+            padding: 125px 0 125px 0;
+
+            .screen1__leftBar{
+                
+                
+                h1{
+                    font-size: $headline-size;
+                    font-weight: $headline-size700-weight;
+                    line-height: 1.2;
+                    text-shadow: 0px 2px 6.3px rgba(0, 0, 0, 0.24);
+                    color: rgb(255, 255, 255);
+                    width: 95%;
+                    margin-bottom: 96px;
+
+                    span{
+                        color: $brown;
+                    }
+                }
+
+                ul{
+                    padding:0px 0px 110px 15px;
+
+                    li{
+                        list-style-type: none;
+                        text-shadow: 0px 2px 6.3px rgba(0, 0, 0, 0.24);
+                        color: rgb(255, 255, 255);
+                        font-size: $big-text;
+                        font-weight: $big-text600-weight;
+                        line-height: 1.2;
+                        position: relative;
+
+                        &:before{
+                            content:'';
+                            width: 10px;
+                            height: 10px;
+                            border-radius: 50%;
+                            background-color: $brown;
+                            position: absolute;
+                            left: -15px;
+                            top:calc(50% - 5px);
+                        }
+                    }
+                }
+                .sizeButton{
+                    height: 65px;
+                    padding: 0 50px 0 50px;
+            
+                }
+            }
+            .screen1__RightBar{
+
+                form{
+                    background-color: rgba(255, 167, 0, 0.478);
+                    width: 100%;
+                    padding: 25px;
+                    border-radius: 3px;
+                    
+                    h2{
+                        font-size: $big-text;
+                        font-weight: $big-text600-weight;
+                        text-shadow: 0px 2px 6.3px rgba(0, 0, 0, 0.24);
+                        text-align: center;
+                        line-height: 24px;
+                        color:#ffffff;
+                        margin-bottom: 25px;
+                    }
+                    h3{
+                        font-size: $regular-text;
+                        font-weight: $regular-text400-weight ;
+                        text-align: center;
+                        line-height: 18px;
+                        color:#ffffff;
+                        margin-bottom: 25px;
+                    }
+                    input, button{
+                        width: 100%;
+                        height: 48px;
+                        border:none;
+                        outline: none;
+                        box-shadow: 0px 2px 6.3px 0.7px rgba(0, 0, 0, 0.24);
+            
+                    }
+                    input:not(:last-child){
+                        width: 100%;
+                        border-radius: 3px;
+                        padding-left: 15px;
+                        margin-bottom: 22px;
+                        
+                    }
+                    
+                }
+            
+            }
+        }
+        
+
+        
+    }
+}
+
+@media(max-width:1199px){
+    
+}
+@media(max-width:991px){
+    .screen1 .container .row{
+        padding: 40px 0 40px 0;
+    }
+    .screen1 .container .row .screen1__leftBar h1{
+        margin-bottom: 40px;
+        line-height: 1;
+    }
+    .screen1 .container .row .screen1__leftBar ul{
+        padding: 0px 0px 40px 15px;
+    }
+}
+@media(max-width:767px){
+    .screen1 .container .row .screen1__leftBar h1{
+        font-size: 36px;
+    }
+    .screen1 .container .row .screen1__leftBar .sizeButton{
+        display: none;
+    }
+    .screen1 .container .row .screen1__RightBar form h3{
+        line-height: 1;
+    }
+}
+@media(max-width:560px){
+    .screen1 .container .row .screen1__leftBar h1{
+        font-size: 32px;
+        line-height: 1;
+    }
+
+    .screen1 .container .row .screen1__leftBar ul li{
+        line-height: 1;
+        margin-bottom: 7px;
+    }
+}
+@media(max-width:480px){
+    
+}
