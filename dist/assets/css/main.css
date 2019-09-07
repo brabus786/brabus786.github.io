@@ -9,86 +9,124 @@
   width: 1em; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-Thin.woff2") format("woff2"), url("../fonts/roboto-Thin.woff") format("woff"), url("../fonts/roboto-Thin.ttf") format("truetype");
-  font-weight: 100;
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist.woff2") format("woff2"), url("/source/assets/fonts/Geomanist.woff") format("woff"), url("/source/assets/fonts/Geomanist.ttf") format("truetype");
+  font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-ThinItalic.woff2") format("woff2"), url("../fonts/roboto-ThinItalic.woff") format("woff"), url("../fonts/roboto-ThinItalic.ttf") format("truetype");
-  font-weight: 100;
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-ExtraLightItalic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-ExtraLightItalic.woff") format("woff"), url("/source/assets/fonts/Geomanist-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
   font-style: italic; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-medium.woff2") format("woff2"), url("../fonts/roboto-medium.woff") format("woff"), url("../fonts/roboto-medium.ttf") format("truetype");
-  font-weight: 500;
-  font-style: normal; }
-
-@font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-LightItalic.woff2") format("woff2"), url("../fonts/roboto-LightItalic.woff") format("woff"), url("../fonts/roboto-LightItalic.ttf") format("truetype");
-  font-weight: 300;
-  font-style: italic; }
-
-@font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-bold.woff2") format("woff2"), url("../fonts/roboto-bold.woff") format("woff"), url("../fonts/roboto-bold.ttf") format("truetype");
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-Bold.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-Bold.woff") format("woff"), url("/source/assets/fonts/Geomanist-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-boldItalic.woff2") format("woff2"), url("../fonts/roboto-boldItalic.woff") format("woff"), url("../fonts/roboto-boldItalic.ttf") format("truetype");
-  font-weight: bold;
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-UltraItalic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-UltraItalic.woff") format("woff"), url("/source/assets/fonts/Geomanist-UltraItalic.ttf") format("truetype");
+  font-weight: normal;
   font-style: italic; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-Light.woff2") format("woff2"), url("../fonts/roboto-Light.woff") format("woff"), url("../fonts/roboto-Light.ttf") format("truetype");
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-ThinItalic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-ThinItalic.woff") format("woff"), url("/source/assets/fonts/Geomanist-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-Light.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-Light.woff") format("woff"), url("/source/assets/fonts/Geomanist-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-BlackItalic.woff2") format("woff2"), url("../fonts/roboto-BlackItalic.woff") format("woff"), url("../fonts/roboto-BlackItalic.ttf") format("truetype");
-  font-weight: 900;
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-Italic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-Italic.woff") format("woff"), url("/source/assets/fonts/Geomanist-Italic.ttf") format("truetype");
+  font-weight: normal;
   font-style: italic; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-Black.woff2") format("woff2"), url("../fonts/roboto-Black.woff") format("woff"), url("../fonts/roboto-Black.ttf") format("truetype");
-  font-weight: 900;
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-ExtraLight.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-ExtraLight.woff") format("woff"), url("/source/assets/fonts/Geomanist-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
   font-style: normal; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-mediumItalic.woff2") format("woff2"), url("../fonts/roboto-mediumItalic.woff") format("woff"), url("../fonts/roboto-mediumItalic.ttf") format("truetype");
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-Medium.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-Medium.woff") format("woff"), url("/source/assets/fonts/Geomanist-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-Thin.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-Thin.woff") format("woff"), url("/source/assets/fonts/Geomanist-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-LightItalic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-LightItalic.woff") format("woff"), url("/source/assets/fonts/Geomanist-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-MediumItalic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-MediumItalic.woff") format("woff"), url("/source/assets/fonts/Geomanist-MediumItalic.ttf") format("truetype");
   font-weight: 500;
   font-style: italic; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-Italic.woff2") format("woff2"), url("../fonts/roboto-Italic.woff") format("woff"), url("../fonts/roboto-Italic.ttf") format("truetype");
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-BlackItalic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-BlackItalic.woff") format("woff"), url("/source/assets/fonts/Geomanist-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Geomanist-Book';
+  src: url("/source/assets/fonts/Geomanist-Book.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-Book.woff") format("woff"), url("/source/assets/fonts/Geomanist-Book.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Geomanist-Ultra';
+  src: url("/source/assets/fonts/Geomanist-Ultra.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-Ultra.woff") format("woff"), url("/source/assets/fonts/Geomanist-Ultra.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-BookItalic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-BookItalic.woff") format("woff"), url("/source/assets/fonts/Geomanist-BookItalic.ttf") format("truetype");
   font-weight: normal;
   font-style: italic; }
 
 @font-face {
-  font-family: 'roboto';
-  src: url("../fonts/roboto-regular.woff2") format("woff2"), url("../fonts/roboto-regular.woff") format("woff"), url("../fonts/roboto-regular.ttf") format("truetype");
-  font-weight: normal;
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-Black.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-Black.woff") format("woff"), url("/source/assets/fonts/Geomanist-Black.ttf") format("truetype");
+  font-weight: 900;
   font-style: normal; }
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url("/source/assets/fonts/Geomanist-BoldItalic.woff2") format("woff2"), url("/source/assets/fonts/Geomanist-BoldItalic.woff") format("woff"), url("/source/assets/fonts/Geomanist-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
 
 body {
-  font-family: 'Roboto'; }
+  font-family: 'Geomanist'; }
 
 a, a:hover {
   text-decoration: none; }
 
 .mi-container {
   max-width: 1305px;
-  margin: auto; }
+  margin: auto;
+  position: relative;
+  z-index: 20; }
 
 .active-fon {
   background-image: -webkit-gradient(linear, left bottom, left top, from(#27263A), to(#1F1E30));
@@ -100,7 +138,8 @@ nav {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  height: 100%; }
+  height: 100%;
+  margin-right: 25px; }
   nav ul {
     padding: 0;
     margin: 0;
@@ -156,6 +195,9 @@ nav {
         color: white;
         font-size: 14px;
         text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); }
+        nav ul li a .title-linck {
+          font-family: 'Geomanist';
+          font-weight: 500; }
         nav ul li a .bottom-line {
           position: absolute;
           width: 0%;
@@ -187,9 +229,384 @@ nav {
           opacity: 1;
           width: 100%; }
 
+.wrap-button {
+  border-radius: 21px;
+  width: 106px;
+  height: 42px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: -webkit-gradient(linear, right top, left top, from(#9F9ACE), to(#706D9C));
+  background: -webkit-linear-gradient(right, #9F9ACE, #706D9C);
+  background: -o-linear-gradient(right, #9F9ACE, #706D9C);
+  background: linear-gradient(-90deg, #9F9ACE, #706D9C);
+  -webkit-box-shadow: 0px 15px 11px 0px rgba(9, 10, 15, 0.15);
+          box-shadow: 0px 15px 11px 0px rgba(9, 10, 15, 0.15); }
+  .wrap-button .oval-button {
+    background-image: -webkit-linear-gradient(0deg, #242333 0%, #3c3b53 100%);
+    background-image: -ms-linear-gradient(0deg, #242333 0%, #3c3b53 100%);
+    -webkit-box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.4);
+            box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.4);
+    background-color: #242433;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 102px;
+    height: 38px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 19px;
+    border: none;
+    outline: none !important;
+    cursor: pointer; }
+
+.wrap-button__img {
+  -webkit-box-shadow: 0px 15px 11px 0px rgba(9, 10, 15, 0.15);
+          box-shadow: 0px 15px 11px 0px rgba(9, 10, 15, 0.15);
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: -webkit-gradient(linear, right top, left top, from(#9F9ACE), to(#706D9C));
+  background: -webkit-linear-gradient(right, #9F9ACE, #706D9C);
+  background: -o-linear-gradient(right, #9F9ACE, #706D9C);
+  background: linear-gradient(-90deg, #9F9ACE, #706D9C);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  z-index: 20; }
+  .wrap-button__img span {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: -webkit-gradient(linear, left top, right top, from(#F36AC8), to(#FF8874));
+    background: -webkit-linear-gradient(left, #F36AC8, #FF8874);
+    background: -o-linear-gradient(left, #F36AC8, #FF8874);
+    background: linear-gradient(90deg, #F36AC8, #FF8874);
+    -webkit-box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.6);
+            box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.6);
+    bottom: 3px;
+    right: 3px;
+    z-index: 30;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    .wrap-button__img span:before {
+      z-index: 40;
+      content: '';
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      position: absolute;
+      background-color: #272133;
+      opacity: 0.5; }
+  .wrap-button__img img {
+    height: 46px;
+    width: 46px;
+    border-radius: 50%;
+    border: 3px solid rgba(0, 0, 0, 0.6); }
+
+.cup {
+  position: relative;
+  z-index: 10;
+  margin-right: 35px; }
+  .cup span {
+    position: absolute;
+    background-image: -webkit-linear-gradient(45deg, #d94fc7 0%, #6d30c8 100%);
+    background-image: -ms-linear-gradient(45deg, #d94fc7 0%, #6d30c8 100%);
+    -webkit-box-shadow: 0px 0px 1px 4px black;
+            box-shadow: 0px 0px 1px 4px black;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    z-index: 20;
+    top: 0px;
+    right: 5px; }
+  .cup img {
+    width: 43px; }
+
+.bell {
+  position: relative;
+  z-index: 10;
+  margin-right: 25px; }
+  .bell span {
+    position: absolute;
+    background-image: -webkit-linear-gradient(45deg, #57b9c9 0%, #3deb6e 100%);
+    background-image: -ms-linear-gradient(45deg, #57b9c9 0%, #3deb6e 100%);
+    -webkit-box-shadow: 0px 0px 1px 4px black;
+            box-shadow: 0px 0px 1px 4px black;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    z-index: 20;
+    top: 0px;
+    right: 6px; }
+  .bell img {
+    width: 40px; }
+
+.crystal {
+  position: relative;
+  border-radius: 21px;
+  width: 86px;
+  height: 38px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: -webkit-gradient(linear, left top, right top, from(#812DCB), to(#F74DCC));
+  background: -webkit-linear-gradient(left, #812DCB, #F74DCC);
+  background: -o-linear-gradient(left, #812DCB, #F74DCC);
+  background: linear-gradient(90deg, #812DCB, #F74DCC);
+  -webkit-box-shadow: 0px 15px 11px 0px rgba(9, 10, 15, 0.15);
+          box-shadow: 0px 15px 11px 0px rgba(9, 10, 15, 0.15);
+  margin-right: 15px; }
+  .crystal span {
+    width: 82px;
+    height: 34px;
+    background-color: #1F1E30;
+    background-image: url("/source/assets/img/gemcopy.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 19px;
+    position: absolute; }
+  .crystal img {
+    position: absolute;
+    left: 15px; }
+
+.wrapIkon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+.wrap-naw {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100%; }
+
+.top-blok {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  min-height: 90px; }
+  .top-blok .left-side-bar, .top-blok .right-side-bar {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .top-blok .left-side-bar .step, .top-blok .left-side-bar .t-news, .top-blok .right-side-bar .step, .top-blok .right-side-bar .t-news {
+      color: #ffffff;
+      font-size: 18px;
+      font-family: 'Geomanist-Book';
+      font-weight: normal; }
+
+.arrow {
+  width: 10px;
+  height: 10px;
+  border-right: 2px solid #9590C1;
+  border-bottom: 2px solid #9590C1;
+  -webkit-transform: rotate(135deg);
+      -ms-transform: rotate(135deg);
+          transform: rotate(135deg); }
+
+.step {
+  margin-left: 20px; }
+
+.steps-block {
+  min-height: 70px;
+  border-radius: 15px;
+  background-color: rgba(36, 35, 51, 0.8);
+  -webkit-box-shadow: 0px 22px 40px 0px rgba(36, 35, 51, 0.45);
+          box-shadow: 0px 22px 40px 0px rgba(36, 35, 51, 0.45);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0 25px 0 25px;
+  margin-bottom: 20px; }
+  .steps-block .steps-block__left .left-arrow {
+    margin-right: 20px;
+    border: 2px solid #9590C1;
+    border-right: none;
+    border-top: none;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+            transform: rotate(45deg); }
+  .steps-block .steps-block__left span:last-child {
+    color: #9590C1;
+    font-size: 14px;
+    font-family: 'Geomanist-Book';
+    font-weight: normal; }
+  .steps-block .steps-block__right .right-arrow {
+    margin-left: 20px;
+    border: 2px solid #9590C1;
+    border-left: none;
+    border-top: none;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  .steps-block .steps-block__right span:first-child {
+    color: #9590C1;
+    font-size: 14px;
+    font-family: 'Geomanist-Book';
+    font-weight: normal; }
+
+.comments-count-block {
+  border-radius: 15px 15px 0 0;
+  background-color: #242333;
+  min-height: 80px;
+  margin-bottom: 2px;
+  padding: 0 25px 0 35px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+  .comments-count-block .block-comments-count {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .comments-count-block .block-comments-count img {
+      margin-right: 20px; }
+    .comments-count-block .block-comments-count .comments-count-title {
+      font-size: 18px;
+      font-family: "Geomanist-Book";
+      color: #9d9acc;
+      margin-right: 4px; }
+    .comments-count-block .block-comments-count .comment-counts {
+      font-size: 18px;
+      color: white;
+      font-family: "Geomanist-Book"; }
+
+.naw-comments {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch; }
+  .naw-comments ul {
+    padding: 0;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; }
+    .naw-comments ul li {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      cursor: pointer; }
+      .naw-comments ul li:first-child {
+        margin-right: 35px; }
+      .naw-comments ul li button {
+        width: 100%;
+        padding: 0 10px 0 10px;
+        font-size: 16px;
+        color: white !important;
+        border: 1px solid white;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center; }
+
+.comment-post textarea {
+  border-radius: 5px;
+  width: 100%;
+  font-size: 16px;
+  padding: 20px 0 0 25px;
+  color: rgba(157, 154, 204, 0.502);
+  font-family: "Geomanist-Book";
+  background-color: rgba(157, 154, 204, 0.2);
+  border: none;
+  outline: none !important; }
+  .comment-post textarea::-webkit-input-placeholder {
+    margin-left: 30px;
+    font-size: 16px;
+    color: rgba(157, 154, 204, 0.4);
+    font-family: "Geomanist-Book"; }
+
 header {
   width: 100%;
   background-color: #1F1E30; }
+  header .mi-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end; }
 
 footer {
   background: #fafafa; }
@@ -365,3 +782,123 @@ footer {
   .screen1 .container .row .screen1__leftBar ul li {
     line-height: 1;
     margin-bottom: 7px; } }
+
+.left-side-bar {
+  max-width: 830px;
+  width: 100%; }
+  .left-side-bar .title-Collector {
+    color: white;
+    line-height: 1;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 20px; }
+  .left-side-bar .dataPost {
+    line-height: 1;
+    margin-bottom: 30px; }
+    .left-side-bar .dataPost span {
+      color: rgba(157, 154, 204, 0.502);
+      font-size: 16px;
+      font-family: 'Geomanist-Book'; }
+  .left-side-bar .text-post {
+    font-size: 16px;
+    color: #9d9acc;
+    font-family: 'Geomanist-Book';
+    line-height: 1.563;
+    margin-bottom: 35px; }
+
+.right-side-bar {
+  max-width: 445px;
+  width: 100%; }
+
+main {
+  position: relative;
+  background-color: #2F2D44; }
+  main .main-bg {
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+    top: 0; }
+
+.main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
+.the-best-collector {
+  padding: 25px;
+  border-radius: 15px 15px 0 0;
+  background-color: rgba(36, 35, 51, 0.8);
+  margin-bottom: 2px; }
+  .the-best-collector .wrap-img {
+    border-radius: 15px;
+    overflow: hidden;
+    margin-bottom: 25px; }
+
+.social {
+  min-height: 80px;
+  background-color: rgba(36, 35, 51, 0.8);
+  border-radius: 0 0 15px 15px;
+  margin-bottom: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  overflow: hidden;
+  padding: 0 25px 0 35px; }
+  .social .like {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .social .like .like-block {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      margin-right: 50px; }
+      .social .like .like-block img {
+        margin-right: 15px; }
+      .social .like .like-block .count-Like {
+        font-size: 16px;
+        color: white;
+        font-weight: "Geomanist-Book"; }
+    .social .like .views {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center; }
+      .social .like .views img {
+        margin-right: 15px; }
+      .social .like .views .views-count {
+        font-size: 16px;
+        color: #9d9acc;
+        font-family: "Geomanist-Book"; }
+  .social .social-icon {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .social .social-icon img {
+      margin-left: 20px; }
+
+.comments-feed {
+  border: 1px solid white;
+  padding: 30px 25px 30px 25px;
+  border-radius: 0 0 15px 15px;
+  background-color: #fff;
+  background-color: #242333;
+  -webkit-box-shadow: 0px 22px 40px 0px rgba(36, 35, 51, 0.45);
+          box-shadow: 0px 22px 40px 0px rgba(36, 35, 51, 0.45); }

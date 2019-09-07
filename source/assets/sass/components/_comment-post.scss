@@ -1,0 +1,25 @@
+.comment-post{
+
+  textarea{
+    border-radius: 5px;
+    width: 100%;
+    font-size: 16px;
+    padding:20px 0 0 25px;
+    color: rgba(157, 154, 204, 0.502);
+    font-family: $bock;
+    background-color: rgba(157, 154, 204, 0.2);
+    border:none;
+    outline: none !important;
+
+
+    &::-webkit-input-placeholder{
+      margin-left: 30px;
+      font-size: 16px;
+      color: rgba(157, 154, 204, 0.4);
+      //color:white;
+      font-family: $bock;
+    }
+  }
+}
+
+

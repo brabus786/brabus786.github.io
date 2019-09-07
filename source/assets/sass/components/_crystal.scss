@@ -1,0 +1,28 @@
+.crystal{
+  position: relative;
+  border-radius: 21px;
+  width: 86px;
+  height: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:linear-gradient( 90deg, #812DCB, #F74DCC);
+  box-shadow: 0px 15px 11px 0px rgba(9, 10, 15, 0.15);
+  margin-right: 15px;
+
+
+  span{
+    width: 82px;
+    height: 34px;
+    background-color: #1F1E30;
+    background-image: url('/source/assets/img/gemcopy.png');
+    background-position: center;
+    background-size: cover;
+    border-radius:19px;
+    position: absolute;
+  }
+  img{
+    position: absolute;
+    left: 15px;
+  }
+}

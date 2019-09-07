@@ -1,0 +1,19 @@
+.top-blok{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  min-height: 90px;
+
+  .left-side-bar, .right-side-bar{
+    display: flex;
+    align-items: center;
+
+    .step, .t-news{
+      color: #ffffff;
+      font-size: 18px;
+      font-family: 'Geomanist-Book';
+      font-weight: normal;
+    }
+
+  }
+}

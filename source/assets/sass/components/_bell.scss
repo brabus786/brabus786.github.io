@@ -1,0 +1,24 @@
+.bell{
+  position: relative;
+  z-index: 10;
+  margin-right: 25px;
+
+  span{
+    position: absolute;
+    background-image: -moz-linear-gradient( 45deg, rgb(87,185,201) 0%, rgb(61,235,110) 100%);
+    background-image: -webkit-linear-gradient( 45deg, rgb(87,185,201) 0%, rgb(61,235,110) 100%);
+    background-image: -ms-linear-gradient( 45deg, rgb(87,185,201) 0%, rgb(61,235,110) 100%);
+    box-shadow: 0px 0px 1px 4px rgba(0, 0, 0, 1);
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    z-index: 20;
+    top: 0px;
+    right: 6px;
+  }
+
+    img{
+      width: 40px;
+    }
+}
+

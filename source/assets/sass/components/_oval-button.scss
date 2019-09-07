@@ -1,0 +1,35 @@
+.wrap-button{
+  border-radius: 21px;
+  width: 106px;
+  height: 42px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:linear-gradient( -90deg, #9F9ACE, #706D9C);
+  box-shadow: 0px 15px 11px 0px rgba(9, 10, 15, 0.15);
+
+
+  .oval-button{
+    background-image: -moz-linear-gradient( 0deg, rgb(36,35,51) 0%, rgb(60,59,83) 100%);
+    background-image: -webkit-linear-gradient( 0deg, rgb(36,35,51) 0%, rgb(60,59,83) 100%);
+    background-image: -ms-linear-gradient( 0deg, rgb(36,35,51) 0%, rgb(60,59,83) 100%);
+    box-shadow: inset 0px 0px 2px 2px rgba(0,0,0,0.4);
+    background-color: rgb(36, 36, 51);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 102px;
+    height: 38px;
+    color:#ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 19px;
+    border:none;
+    outline: none !important;
+    cursor:pointer;
+  }
+  }
+
+
+
+

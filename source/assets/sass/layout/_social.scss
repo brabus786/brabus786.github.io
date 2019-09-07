@@ -1,0 +1,58 @@
+.social{
+  min-height: 80px;
+  background-color: rgba(36, 35, 51, 0.8);
+  border-radius: 0 0 15px 15px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  padding: 0 25px 0 35px;
+
+  .like{
+    display: flex;
+    align-items: center;
+
+    .like-block{
+      display: flex;
+      align-items: center;
+      margin-right: 50px;
+
+      img{
+        margin-right: 15px;
+      }
+
+      .count-Like{
+        font-size: 16px;
+        color: rgb(255, 255, 255);
+        font-weight: $bock;
+      }
+  }
+
+    .views{
+      display: flex;
+      align-items: center;
+
+      img{
+        margin-right: 15px;
+      }
+
+      .views-count{
+        font-size: 16px;
+        color: rgb(157, 154, 204);
+        font-family:$bock;
+      }
+    }
+
+
+  }
+  .social-icon{
+    display: flex;
+    align-items: center;
+
+    img{
+      margin-left: 20px;
+    }
+  }
+}
+
+

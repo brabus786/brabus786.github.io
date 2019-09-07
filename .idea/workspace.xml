@@ -2,15 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a3396fc-07f3-4a57-8494-d5ee6ee48f02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/img/Layer1151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_arrow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_bell.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_comment-post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_comments-count-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_crystal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_cup.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_naw-comments.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_oval-button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_round-icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_stepsblok.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_top-blok.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/wrapperS.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_comments-feed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_left-side-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_right-side-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_social.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_the-best-collector.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_wrap-comments.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/base/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/base/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/base/_module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/base/_module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_mi-container.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_nav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/utils/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +63,11 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\OpenServer\domains\testproject\source\assets\img" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -63,6 +92,12 @@
       <updated>1567613847759</updated>
       <workItem from="1567613853492" duration="1199000" />
       <workItem from="1567625055313" duration="10114000" />
+      <workItem from="1567657761403" duration="770000" />
+      <workItem from="1567684415309" duration="21822000" />
+      <workItem from="1567707704305" duration="8392000" />
+      <workItem from="1567745554168" duration="1932000" />
+      <workItem from="1567787178281" duration="14287000" />
+      <workItem from="1567832803102" duration="7093000" />
     </task>
     <servers />
   </component>
@@ -74,7 +109,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

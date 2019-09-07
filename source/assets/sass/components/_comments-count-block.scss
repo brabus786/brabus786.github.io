@@ -1,0 +1,33 @@
+.comments-count-block{
+  border-radius: 15px 15px 0 0;
+  background-color: $bgc;
+  min-height: 80px;
+  margin-bottom: 2px;
+  padding: 0 25px 0 35px;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+
+
+  .block-comments-count{
+    display: flex;
+    align-items: center;
+
+    img{
+      margin-right: 20px;
+    }
+
+    .comments-count-title{
+      font-size: 18px;
+      font-family: $bock;
+      color: rgb(157, 154, 204);
+      margin-right: 4px;
+    }
+    .comment-counts{
+      font-size: 18px;
+      color: rgb(255, 255, 255);
+      font-family: $bock;
+    }
+  }
+}
+
