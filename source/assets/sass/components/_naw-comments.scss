@@ -1,36 +1,44 @@
-.naw-comments{
+.naw-comments {
   display: flex;
   align-items: stretch;
 
+  .Popular, .Recent{
+    margin-right: 25px;
+    position: relative;
+    z-index: 10;
+    background-color: rgb(36, 35, 51);
+    font-size: 16px;
+    color: rgb(157, 154, 204);
+    font-family: $bock;
+    transition: 0.2s;
 
-  ul{
-    padding: 0;
-    margin: 0;
-    display: flex;
+    &:hover{
+      color: #ffffff;
+    }
 
-
-    li{
-        display: flex;
-        cursor: pointer;
-
-        &:first-child{
-          margin-right: 35px;
-        }
-      button{
-          width: 100%;
-          padding: 0 10px 0 10px;
-          font-size: 16px;
-          color: rgb(255, 255, 255) !important;
-          border:1px solid white;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-
-        &:hover{
-
-        }
-      }
+    span{
+      position: absolute;
+      width: 0%;
+      height: 2px;
+      background: linear-gradient(90deg, #d94fc7 0%, #ff905a 100%);
+      bottom: -2px;
+      left: 0;
+      transition: 0.2s;
+    }
+    &:hover span{
+      width: 100%;
     }
   }
-}
 
+  .Recent{
+    margin-right: 0px;
+  }
+
+  button {
+    border: none;
+    outline: none !important;
+    cursor: pointer;
+  }
+
+
+}

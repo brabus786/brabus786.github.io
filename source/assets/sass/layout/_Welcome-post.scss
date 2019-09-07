@@ -1,0 +1,38 @@
+.Welcome-post{
+    position: relative;
+    //border:1px solid white;
+    border-radius: 10px;
+    box-shadow: 0px 22px 40px 0px rgba(36, 35, 51, 0.45);
+    min-height: 262px;
+    overflow: hidden;
+    margin-bottom: 40px;
+
+
+
+    .Welcome-post-discr{
+        //border: 1px solid white;
+        padding: 25px 25px 25px 25px;
+        background-color: rgba(36, 35, 51,0.902);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+
+        .discr-tytle{
+            font-size: 18px;
+            color: rgb(255, 255, 255);
+            font-family: $bock;
+            margin-bottom: 10px;
+            line-height: 1;
+        }
+
+        .Welcome-discr{
+            font-size: 14px;
+            color: rgb(157, 154, 204);
+            font-family: $bock;
+            line-height: 1.2;
+            margin-bottom: 0;
+        }
+    }
+}
+
