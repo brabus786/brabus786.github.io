@@ -47,9 +47,10 @@
 
   .block-comeht {
     padding-top: 20px;
-    padding-top: 20px;
     border-bottom: 2px solid rgba(157, 154, 204,0.102);
-    display: flex;
+    display: grid;
+    grid-template-columns: 60px auto;
+    grid-column-gap: 20px;
     justify-content: space-between;
 
     .block-comeht-img {

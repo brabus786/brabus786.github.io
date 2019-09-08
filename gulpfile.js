@@ -44,7 +44,7 @@ gulp.task("build-css", function () {
 //Compress js
 gulp.task('scripts', function () {
     return gulp.src('source/assets/js/**/*.js')
-        .pipe(uglify())
+        // .pipe(uglify())
        .pipe(gulp.dest('dist/assets/js'))
         .pipe(browserSync.reload({stream: true}));
 });

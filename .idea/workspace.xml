@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a3396fc-07f3-4a57-8494-d5ee6ee48f02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_Welcome-post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_mob-menu-mob.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/components/_mobail-button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/assets/sass/layout/_responsive.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/Rectangle931.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/Rectangle931.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/icons8_Notification.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/icons8_Notification.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/jquery.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/js/jquery.main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/libs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/js/libs.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/img/Rectangle931.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/Rectangle931.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/img/icons8_Notification.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/img/icons8_Notification.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/js/jquery.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/js/jquery.main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_comment-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_comment-post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_crystal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_crystal.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_naw-comments.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_naw-comments.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_comments-feed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_comments-feed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_left-side-bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_left-side-bar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_oval-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_oval-button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_round-icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_round-icon.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_wrap-comments.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_wrap-comments.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_right-side-bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_right-side-bar.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,7 +87,8 @@
       <workItem from="1567787178281" duration="14287000" />
       <workItem from="1567832803102" duration="7648000" />
       <workItem from="1567848344347" duration="12349000" />
-      <workItem from="1567880025762" duration="2761000" />
+      <workItem from="1567880025762" duration="3537000" />
+      <workItem from="1567924501304" duration="19760000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,155 @@
+@media (max-width: 1350px) {
+  .mi-container {
+    padding: 0 15px;
+  }
+  .left-side-bar {
+    width: 68.5%;
+  }
+
+  .right-side-bar {
+    width: 30%;
+  }
+  .collector-img {
+    width: 100%;
+  }
+  .Welcome-post-img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+
+  }
+}
+
+@media(max-width: 850px) {
+  .mob-menu-mob{
+    display: block;
+  }
+  header .mi-container{
+    height: 70px;
+    z-index: 100;
+  }
+  .wrap-naw{
+    justify-content: flex-start;
+  }
+  .mobail-button{
+    display: flex;
+  }
+  nav{
+    align-items: center;
+  }
+  .nav-ul{
+    display: none;
+  }
+  .option1{
+    display: none;
+  }
+  .right-side-bar .option2{
+    display: block;
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .main {
+    flex-wrap: wrap;
+  }
+  .left-side-bar {
+    width: 100%;
+  }
+  .right-side-bar {
+    width: 100%;
+    max-width: inherit;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .Welcome-post {
+    width: 49%;
+    margin-bottom: 15px;
+  }
+}
+
+@media(max-width: 680px) {
+  .wrap-button .oval-button{
+    width: 38px;
+  }
+  .wrap-button{
+    width: 42px;
+  }
+  .cup, .bell{
+    margin-right: 15px;
+  }
+  nav{
+    margin-right: 15px;
+  }
+  .Welcome-post {
+    width: 100%;
+  }
+}
+
+@media(max-width: 480px) {
+  nav {
+    margin-right: 10px;
+  }
+.cup img, .bell img{
+  width: 32px;
+  height: 32px;
+}
+  .wrap-button, .wrap-button__img{
+    width: 38px;
+    height: 38px;
+  }
+  .wrap-button .oval-button, .wrap-button__img img{
+    width: 34px;
+    height: 34px;
+  }
+  .crystal{
+    margin-right: 4px;
+    margin-left: 4px;
+  }
+  .cup, .bell {
+    margin-right: 0px;
+  }
+  .social .like .like-block img, .social .like .views img {
+    margin-right: 5px;
+  }
+  .social .like .like-block {
+    margin-right: 10px;
+  }
+  .social .social-icon img{
+    margin-left: 10px;
+  }
+  .comments-count-block{
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .naw-comments .Popular, .naw-comments .Recent{
+    border:1px solid ;
+    border-image: linear-gradient(90deg, #d94fc7 0%, #ff905a 100%)1;
+  }
+  .comments-count-block{
+    padding: 25px;
+  }
+  .comments-count-block .block-comments-count{
+    margin-bottom: 15px;
+  }
+  .social{
+    padding: 0 25px 0 25px;
+  }
+}
+
+
+@media(max-width: 380px){
+  .comment-post .wrap-textarea button{
+    margin-right: 10px;
+  }
+  .comment-post .textarea{
+    padding: 20px 30px 0 15px;
+  }
+  .comments-count-block{
+    min-height: 95px;
+    padding: 0 25px 0 25px;
+    justify-content: center;
+  }
+
+}

@@ -1,0 +1,30 @@
+.mob-menu-mob{
+  display: none;
+  border:1px solid #A39CD2;
+  position: absolute;
+  background-color: #252435;
+  top:70px;
+  transform: translateX(-220px);
+  transition: 0.5s;
+
+  .nav-ul-mob{
+    display: flex;
+    flex-direction: column;
+
+    li{
+      border-bottom: 1px solid #A39CD2;
+
+      &:last-child{
+        border-bottom: none;
+      }
+
+      a{
+        width: 200px;
+        height: 60px;
+        color: #A39CD2;
+        font-size: 18px;
+        font-family: $bock;
+      }
+    }
+  }
+}

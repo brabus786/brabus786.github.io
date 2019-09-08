@@ -10,6 +10,10 @@
   position: relative;
   z-index: 20;
 
+  &:hover{
+    background: linear-gradient( 90deg, #F36AC8, #FF8874);
+  }
+
   span{
     position: absolute;
     width: 10px;
