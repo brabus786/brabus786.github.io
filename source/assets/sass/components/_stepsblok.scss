@@ -10,7 +10,9 @@
   margin-bottom: 20px;
 
   .steps-block__left{
-    //border:1px solid #ffffff;
+    .wrapSpanLeft{
+      cursor: pointer;
+    }
 
     .left-arrow{
       margin-right: 20px;
@@ -33,6 +35,10 @@
   }
   .steps-block__right{
     //border:1px solid #ffffff;
+  .wrapSpanRight{
+    cursor: pointer;
+  }
+
 
     .right-arrow{
       margin-left: 20px;
@@ -50,6 +56,7 @@
       font-size: 14px;
       font-family: 'Geomanist-Book';
       font-weight: normal;
+      cursor: pointer;
     }
   }
 }

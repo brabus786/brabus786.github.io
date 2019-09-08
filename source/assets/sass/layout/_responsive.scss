@@ -21,6 +21,14 @@
   }
 }
 
+@media(max-width: 1115px){
+  .wrap-naw{
+    display:flex;
+    width: 100%;
+    justify-content: flex-start;
+  }
+}
+
 @media(max-width: 850px) {
   .mob-menu-mob{
     display: block;

@@ -5,9 +5,10 @@
 }
 
 .wrap-naw{
-  display: flex;
+  display: grid;
+  grid-template-columns:430px 108px 180px;
   align-items: center;
   //border:1px solid #0ac96b;
   justify-content: center;
-  width: 100%;
+  //width: 100%;
 }

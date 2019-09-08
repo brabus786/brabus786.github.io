@@ -1,16 +1,27 @@
 .mobail-button{
+  position: relative;
   display: none;
   width: 40px;
   height: 40px;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
 
   span{
+    position: absolute;
     display: block;
     width: 35px;
     height: 3px;
     border-radius: 1.5px;
     background-color: #A39CD2;
+    transition: 0.5s;
+    opacity: 1;
+  }
+
+  .s1{
+    top:7.5px;
+  }
+  .s3{
+    bottom:7.5px;
   }
 }
