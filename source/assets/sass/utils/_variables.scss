@@ -1,39 +1,10 @@
-$green:#0ac96b;
-$orange:#f15623;
-$brown:#ffa700;
-$red:#f13340;
-$yelow:#ffcf0e;
-
-
 $light:300;
 $normal:400;
 $medium:500;
 $SemiBold:600;
 $bock:'Geomanist-Book';
 
-
 $bgc:rgb(36, 35, 51);
 
+$boxShadow:0px 16px 65px 0px rgba(36, 35, 51, 0.48);
 
-
-
-
-
-$headline-size:48px;
-$headline-size700-weight:700;
-
-$big-text:24px;
-$big-text600-weight:600;
-
-$regular-text:16px;
-$regular-text400-weight:400;
-
-
-$grid-breakpoints: (
-        'xxs': 0,
-        'xs': 475px,
-        'sm': 576px,
-        'md': 768px,
-        'lg': 992px,
-        'xl': 1200px,
-) !default;

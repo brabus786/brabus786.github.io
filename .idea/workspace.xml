@@ -3,19 +3,179 @@
   <component name="ChangeListManager">
     <list default="true" id="2a3396fc-07f3-4a57-8494-d5ee6ee48f02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/libs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/libs.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/jquery.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/js/jquery.main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/jquery.main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/libs.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/js/jquery.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/js/jquery.main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_bell.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_bell.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_crystal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_crystal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_cup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_cup.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_mob-menu-mob.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_mob-menu-mob.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_mobail-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_mobail-button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_stepsblok.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_stepsblok.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_top-blok.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_top-blok.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/wrapperS.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/wrapperS.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/js/jquery.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/js/libs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/bootstrap-4.2.1-dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/dist/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/dist/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/dist/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/external/sizzle/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/external/sizzle/dist/sizzle.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax/jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax/load.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax/parseXML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax/var/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax/var/nonce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax/var/rquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/ajax/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/attributes/attr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/attributes/classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/attributes/prop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/attributes/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/attributes/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/callbacks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/DOMEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/access.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/camelCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/nodeName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/parseHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/ready-no-deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/ready.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/readyException.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/stripAndCollapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/toType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/core/var/rsingleTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/addGetHookIf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/adjustCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/curCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/showHide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/var/cssExpand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/var/getStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/var/rboxStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/css/var/swap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/data/Data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/data/var/acceptData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/data/var/dataPriv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/data/var/dataUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/deferred/exceptionHook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/deprecated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/dimensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/effects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/effects/Tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/effects/animatedSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/event/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/event/alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/event/focusin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/event/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/event/trigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/exports/amd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/exports/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/buildFragment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/getAll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/var/rcheckableType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/var/rtagName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/manipulation/wrapMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/queue/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/selector-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/selector-sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/serialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/traversing/findFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/traversing/var/dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/traversing/var/siblings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/ObjectFunctionString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/arr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/class2type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/concat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/documentElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/fnToString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/getProto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/hasOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/isFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/isWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/pnum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/push.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/rcssNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/rnothtmlwhite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/slice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/var/toString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/jquery/src/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/owlcarusel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/libs/phonemask/jquery.mask.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/base/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/base/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_screen1.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/layout/_social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/layout/_social.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/libs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/libs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/utils/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +242,8 @@
       <workItem from="1567848344347" duration="12349000" />
       <workItem from="1567880025762" duration="3537000" />
       <workItem from="1567924501304" duration="20099000" />
-      <workItem from="1567961634123" duration="17438000" />
+      <workItem from="1567961634123" duration="17681000" />
+      <workItem from="1568004427517" duration="4084000" />
     </task>
     <servers />
   </component>

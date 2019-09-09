@@ -1,3 +1,5 @@
+<?php if (substr_count($_SERVER[‘HTTP_ACCEPT_ENCODING’], ‘gzip’)) ob_start(“ob_gzhandler”); else ob_start(); ?>
+<!--Set GZIP Compression-->
 <!DOCTYPE html>
 <html lang="ru">
 
@@ -6,21 +8,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="theme-color" content="#528A4A"/>
+    <meta name="Description" content="Test markup project">
     <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="assets/css/libs.min.css">
     <link rel="stylesheet" href="assets/css/main.css">
     <title>Test</title>
 </head>
 
 <body>
 
-<header>
+<header class="headerB">
     <div class="mi-container">
         <div class="wrap-naw">
 
             <nav id="nav">
 
-                <div class="mob-menu-mob" >
+                <div class="mob-menu-mob">
                     <ul class="nav-ul-mob">
                         <li><a href="">Home</a></li>
                         <li><a href="">Marketplace</a></li>
@@ -29,9 +31,9 @@
                 </div>
 
                 <div class="mobail-button">
-                        <span class="s1"></span>
-                        <span class="s2"></span>
-                        <span class="s3"></span>
+                    <span class="s1"></span>
+                    <span class="s2"></span>
+                    <span class="s3"></span>
                 </div>
 
                 <ul class="nav-ul">
@@ -45,34 +47,34 @@
             </nav>
 
 
-                <div class="wrap-button">
-                    <button class="oval-button">Play</button>
-                </div>
+            <div class="wrap-button">
+                <button class="oval-button">Play</button>
+            </div>
 
 
         </div>
 
         <div class="wrapIkon">
             <div class="cup">
-                <img src="../source/assets/img/Rectangle931.png" alt="">
+                <img src="./assets/img/Rectangle931.webp" alt="img">
                 <span></span>
             </div>
 
             <div class="bell">
-                <img src="../source/assets/img/icons8_Notification.png" alt="">
+                <img src="./assets/img/icons8_Notification.webp" alt="img">
                 <span></span>
             </div>
 
             <div class="crystal">
                 <span class="spanBg"></span>
                 <div class="wrapCristal">
-                    <img src="../source/assets/img/gem.png" alt="">
+                    <img src="./assets/img/gem.webp" alt="img">
                     <span class="countCristal">142</span>
                 </div>
             </div>
 
             <div class="wrap-button__img">
-                <img src="../source/assets/img/Layer20.png" alt="">
+                <img src="./assets/img/Layer20.webp" alt="img">
                 <span></span>
             </div>
         </div>
@@ -81,7 +83,7 @@
 </header>
 
 <main>
-    <img class="main-bg" src="../source/assets/img/GradientMap1.png" alt="">
+    <img class="main-bg" src="./assets/img/GradientMap1.webp" alt="img">
 
     <div class="mi-container ">
 
@@ -116,7 +118,7 @@
 
                 <div class="the-best-collector">
                     <div class="wrap-img">
-                        <img class="collector-img" src="/source/assets/img/Layer1151.png" alt="">
+                        <img class="collector-img" src="/source/assets/img/Layer1151.webp" alt="img">
                     </div>
 
                     <p class="title-Collector">The International 2018 Collector’</p>
@@ -142,13 +144,13 @@
                 <div class="social">
                     <div class="like">
                         <div class="like-block">
-                            <img src="/source/assets/img/icons8_Thumbs_Up_24px.png" alt="">
+                            <img src="/source/assets/img/icons8_Thumbs_Up_24px.webp" alt="img">
                             <span class="count-Like">
                                 345
                             </span>
                         </div>
                         <div class="views">
-                            <img src="/source/assets/img/icons8_Eye_48px.png" alt="">
+                            <img src="/source/assets/img/icons8_Eye_48px.webp" alt="img">
                             <span class="views-count">
                                 7.649
                             </span>
@@ -156,9 +158,9 @@
                     </div>
 
                     <div class="social-icon">
-                        <a href=""><img src="/source/assets/img/icons8_Share_48px.png" alt=""></a>
-                        <a href=""><img src="/source/assets/img/icons8_Facebook_48px.png" alt=""></a>
-                        <a href=""><img src="/source/assets/img/icons8_Twitter_48px.png" alt=""></a>
+                        <a href=""><img src="/source/assets/img/icons8_Share_48px.webp" alt="img"></a>
+                        <a href=""><img src="/source/assets/img/icons8_Facebook_48px.webp" alt="img"></a>
+                        <a href=""><img src="/source/assets/img/icons8_Twitter_48px.webp" alt="img"></a>
                     </div>
                 </div>
 
@@ -167,17 +169,17 @@
 
                     <div class="comments-count-block">
                         <div class="block-comments-count">
-                            <img src="/source/assets/img/icons8_Comments_48px_1.png" alt="">
+                            <img src="/source/assets/img/icons8_Comments_48px_1.webp" alt="img">
                             <span class="comments-count-title">Comments:</span>
                             <span class="comment-counts">48</span>
                         </div>
 
                         <div class="naw-comments">
 
-                                    <button class="Popular"><span></span>Popular</button>
+                            <button class="Popular"><span></span>Popular</button>
 
 
-                                    <button class="Recent"><span></span>Recent</button>
+                            <button class="Recent"><span></span>Recent</button>
 
                         </div>
                     </div>
@@ -186,12 +188,13 @@
 
                         <div class="comment-post">
                             <div class="wrap-textarea">
-                                <button><img src="/source/assets/img/Shape6.png" alt=""></button>
-                                 <textarea  class="textarea" placeholder="Type comment here.."></textarea>
+                                <button><img src="/source/assets/img/Shape6.webp" alt="img"></button>
+                                <label for="comment" class="sr-only">Comment </label>
+                                <textarea  aria-label="comment input" id="comment" name="comment" class="textarea" placeholder="Type comment here.."></textarea>
                             </div>
                             <div class="block-comeht">
                                 <div class="block-comeht-img">
-                                    <img src="/source/assets/img/Layer 1153.png" alt="">
+                                    <img src="/source/assets/img/Layer 1153.webp" alt="img">
                                 </div>
                                 <div class="mi-comeyts">
                                     <div class="data-coments">
@@ -212,7 +215,7 @@
                             <!--                            <textarea class="textarea" placeholder="Type comment here.."></textarea>-->
                             <div class="block-comeht">
                                 <div class="block-comeht-img">
-                                    <img src="/source/assets/img/Layer 1153.png" alt="">
+                                    <img src="/source/assets/img/Layer 1153.webp" alt="img">
                                 </div>
                                 <div class="mi-comeyts">
                                     <div class="data-coments">
@@ -233,7 +236,7 @@
                             <!--                            <textarea class="textarea" placeholder="Type comment here.."></textarea>-->
                             <div class="block-comeht">
                                 <div class="block-comeht-img">
-                                    <img src="/source/assets/img/Layer 1153.png" alt="">
+                                    <img src="/source/assets/img/Layer 1153.webp" alt="img">
                                 </div>
                                 <div class="mi-comeyts">
                                     <div class="data-coments">
@@ -243,7 +246,8 @@
                                     </div>
                                     <p class="post-diskr">
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500.   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                                        Ipsum has been the industry's standard dummy text ever since the 1500. Lorem
+                                        Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                         Ipsum has been the industry's standard dummy text ever since the 1500.
                                     </p>
                                 </div>
@@ -262,7 +266,7 @@
                 <span class="right-side-bar-title option2 ">Related News</span>
 
                 <div class="Welcome-post">
-                    <img class="Welcome-post-img" src="/source/assets/img/Layer1152.png" alt="">
+                    <img class="Welcome-post-img" src="/source/assets/img/Layer1152.webp" alt="img">
                     <div class="Welcome-post-discr">
                         <p class="discr-tytle">
                             Welcome to Nethernite
@@ -274,7 +278,7 @@
                 </div>
 
                 <div class="Welcome-post">
-                    <img class="Welcome-post-img" src="/source/assets/img/Layer1152.png" alt="">
+                    <img class="Welcome-post-img" src="/source/assets/img/Layer1152.webp" alt="img">
                     <div class="Welcome-post-discr">
                         <p class="discr-tytle">
                             Welcome to Nethernite
@@ -286,7 +290,7 @@
                 </div>
 
                 <div class="Welcome-post">
-                    <img class="Welcome-post-img"t-news src="/source/assets/img/Layer1152.png" alt="">
+                    <img class="Welcome-post-img" t-news src="/source/assets/img/Layer1152.webp" alt="img">
                     <div class="Welcome-post-discr">
                         <p class="discr-tytle">
                             Welcome to Nethernite
@@ -303,9 +307,7 @@
 </main>
 
 
-<script src="assets/js/libs.min.js"></script>
-<script src="assets/js/jquery.main.js"></script>
-<script type="text/javascript"></script>
+<script src="assets/js/main.js"></script>
 
 </body>
 
