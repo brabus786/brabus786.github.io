@@ -4,7 +4,9 @@
     <list default="true" id="2a3396fc-07f3-4a57-8494-d5ee6ee48f02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_mob-menu-mob.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_mob-menu-mob.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_bell.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_bell.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_cup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_cup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/sass/components/_oval-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/sass/components/_oval-button.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +73,7 @@
       <workItem from="1567880025762" duration="3537000" />
       <workItem from="1567924501304" duration="20099000" />
       <workItem from="1567961634123" duration="17681000" />
-      <workItem from="1568004427517" duration="6323000" />
+      <workItem from="1568004427517" duration="7164000" />
     </task>
     <servers />
   </component>
